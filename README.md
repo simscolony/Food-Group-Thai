@@ -10,14 +10,17 @@ For Srsly's Complete Cooking Overhaul - 2.7.1
  
  ![COOKING](https://64.media.tumblr.com/522f5aa82bb22c4c3dc71dfd03f866ad/4358e3180819cb68-27/s640x960/643cd60ac6681d55b4e3230707226db6b9343f4d.png)
 
-Public Version
+### Public Version
 https://www.srslysims.net/2019/03/srslys-complete-cooking-overhaul.html
 
-Pateron Version
+### Pateron Version
 https://www.patreon.com/posts/srslys-complete-31936477
 
+==============================================================================
 
-Srsly’s Complete Cooking Overhaul (SCCO) is a complete overhaul of all things cooking!
+# Srsly’s Complete Cooking Overhaul 
+
+(SCCO) is a complete overhaul of all things cooking!
 
 This mod changes all EA aspects of cooking to make them feel more realistic and immersive. This mod expands EA recipes, adds custom recipes, and custom ingredients,  and even adds grocery shopping to your game.
 
@@ -26,17 +29,16 @@ In real life, you might not be able to afford a meal or need to shop before you 
 So now you have to in Sims as well!
 Just be careful you don’t stave…
 
-Requirements
+### Requirements
 Get to Work
 City Living
 The above packs are required for the mod to work. You cannot use this mod without the above packs. 
 
-Current Version
-3.5.2
+### Current Version 3.5.2
 Most Recent Changelog 
 SCCO is an ongoing project. It receives monthly updates to add new content and features.
 
-How to Install
+### How to Install
 Step by Step install guide with gifs can be found here.
 
 SCCO has many different features.
