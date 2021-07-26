@@ -4,8 +4,8 @@
 
 | MOD   | Download|
 | ------------- | ------------- |
- |TheFoodGroup Github | [ดาวโหลด  Srsly's Complete Cooking](https://github.com/simscolony/Food-Group-Thai/raw/master/%5BSIMSCOLONY%5DSrsly's%20Complete%20Cooking%20Overhaul%20Thai.package) |
- |TheFoodGroup simfileshare | [ดาวโหลด  Srsly's Complete Cooking](https://simfileshare.net/folder/60125/) |
+ |TheFoodGroup Github | [Github Thai Srsly's Complete Cooking](https://github.com/simscolony/Food-Group-Thai/raw/master/%5BSIMSCOLONY%5DSrsly's%20Complete%20Cooking%20Overhaul%20Thai.package) |
+ |TheFoodGroup simfileshare | [simfileshare Thai  Srsly's Complete Cooking](https://simfileshare.net/folder/60125/) |
  
 ==============================================================================
  ![COOKING](https://64.media.tumblr.com/522f5aa82bb22c4c3dc71dfd03f866ad/4358e3180819cb68-27/s640x960/643cd60ac6681d55b4e3230707226db6b9343f4d.png)
