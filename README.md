@@ -9,7 +9,7 @@
 ==============================================================================
  ![COOKING](https://64.media.tumblr.com/522f5aa82bb22c4c3dc71dfd03f866ad/4358e3180819cb68-27/s640x960/643cd60ac6681d55b4e3230707226db6b9343f4d.png)
  
-##How to install
+## How to install
 
 1.Download Mod Srsly's Complete Cooking Overhau
 ### Public Version
