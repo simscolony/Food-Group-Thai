@@ -1,22 +1,22 @@
 # Transalation Localization Thai For Food Group and Srsly's Complete Cooking Overhaul 
-## Suport - Srsly's Complete Cooking Overhaul - v 3.7.0 
+## Suport - Srsly's Complete Cooking Overhaul - v 5.0
  
 
 | MOD   | Download|
 | ------------- | ------------- |
  |TheFoodGroup Github | [Github Thai Srsly's Complete Cooking](https://github.com/simscolony/Food-Group-Thai/raw/master/%5BSIMSCOLONY%5DSrsly's%20Complete%20Cooking%20Overhaul%20Thai.package) |
- |TheFoodGroup simfileshare | [simfileshare Thai  Srsly's Complete Cooking](https://simfileshare.net/folder/60125/) |
  
 ==============================================================================
  ![COOKING](https://64.media.tumblr.com/522f5aa82bb22c4c3dc71dfd03f866ad/4358e3180819cb68-27/s640x960/643cd60ac6681d55b4e3230707226db6b9343f4d.png)
-How to install
+ 
+##How to install
 
 1.Download Mod Srsly's Complete Cooking Overhau
 ### Public Version
-https://www.srslysims.net/2019/03/srslys-complete-cooking-overhaul.html
+https://srslysims.net/scco/
 
 ### Pateron Version
-https://www.patreon.com/posts/srslys-complete-31936477
+https://www.patreon.com/posts/srslys-complete-68781701
 
 2.Download thai transaltion for Srsly's Complete Cooking Overhau
 
@@ -41,7 +41,8 @@ Get to Work
 City Living
 The above packs are required for the mod to work. You cannot use this mod without the above packs. 
 
-### Current Version 3.5.2
+### Current Version 5.0
+
 Most Recent Changelog 
 SCCO is an ongoing project. It receives monthly updates to add new content and features.
 
